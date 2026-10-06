@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "elf_sha256": "67ac3e4bf656f688767ad654df7fe310317efc4909d949ad32fd762825cf659e",
+  "elf_size": 7414808,
+  "images": [
+    {
+      "unit": 0,
+      "id": "a88c0c96219023cb",
+      "size": 4096,
+      "sha256": "54be51e6c1d3b26b3dec298bd45395bfae13160fa72589cd67e6e0a918e08a1b",
+      "spans": [
+        {
+          "destination": 0,
+          "offset": 1427616,
+          "length": 2048
+        },
+        {
+          "destination": 2048,
+          "offset": 1429672,
+          "length": 920
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "id": "7d7edbc78086ac63",
+      "size": 16384,
+      "sha256": "e63eeef4f5d160ac1a13eb5a978a0b5577b3c5fccf7e14defc11691859a54ed3",
+      "spans": [
+        {
+          "destination": 0,
+          "offset": 1412128,
+          "length": 2048
+        },
+        {
+          "destination": 2048,
+          "offset": 1414184,
+          "length": 2048
+        },
+        {
+          "destination": 4096,
+          "offset": 1416240,
+          "length": 2048
+        },
+        {
+          "destination": 6144,
+          "offset": 1418296,
+          "length": 2048
+        },
+        {
+          "destination": 8192,
+          "offset": 1420352,
+          "length": 2048
+        },
+        {
+          "destination": 10240,
+          "offset": 1422408,
+          "length": 2048
+        },
+        {
+          "destination": 12288,
+          "offset": 1424464,
+          "length": 1272
+        },
+        {
+          "destination": 13560,
+          "offset": 1406360,
+          "length": 776
+        },
+        {
+          "destination": 14336,
+          "offset": 1407144,
+          "length": 736
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "id": "cc154aeee0cceaab",
+      "size": 16384,
+      "sha256": "c397627792f3912d92656bc130898b04c5967b0a80c9d5052f8ccabd48b63e90",
+      "spans": [
+        {
+          "destination": 0,
+          "offset": 1392752,
+          "length": 2048
+        },
+        {
+          "destination": 2048,
+          "offset": 1394808,
+          "length": 2048
+        },
+        {
+          "destination": 4096,
+          "offset": 1396864,
+          "length": 2048
+        },
+        {
+          "destination": 6144,
+          "offset": 1398920,
+          "length": 2048
+        },
+        {
+          "destination": 8192,
+          "offset": 1400976,
+          "length": 2048
+        },
+        {
+          "destination": 10240,
+          "offset": 1403032,
+          "length": 2048
+        },
+        {
+          "destination": 12288,
+          "offset": 1405088,
+          "length": 2048
+        },
+        {
+          "destination": 14336,
+          "offset": 1407144,
+          "length": 736
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "id": "d166d271aef9b896",
+      "size": 16384,
+      "sha256": "a4a8a555051fc9fd01b5318bd74325eb18b7442d2ec94faa830e90a5638096a9",
+      "spans": [
+        {
+          "destination": 0,
+          "offset": 1412128,
+          "length": 2048
+        },
+        {
+          "destination": 2048,
+          "offset": 1414184,
+          "length": 2048
+        },
+        {
+          "destination": 4096,
+          "offset": 1416240,
+          "length": 2048
+        },
+        {
+          "destination": 6144,
+          "offset": 1418296,
+          "length": 2048
+        },
+        {
+          "destination": 8192,
+          "offset": 1420352,
+          "length": 2048
+        },
+        {
+          "destination": 10240,
+          "offset": 1422408,
+          "length": 2048
+        },
+        {
+          "destination": 12288,
+          "offset": 1424464,
+          "length": 1280
+        }
+      ]
+    }
+  ]
+}
